@@ -41,7 +41,7 @@ Then press the Shield icon to activate.
 Open DNS66 > swipe to Hosts > Click + button and then copy paste the below url.
 Then press the refresh icon on the top and press the start button.
 ```
-https://
+https://raw.githubusercontent.com/hmuhtetpaing/mvp/master/Hosts/MVP.txt
 ```
 
 ### Adaway
